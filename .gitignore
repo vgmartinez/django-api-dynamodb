@@ -1,0 +1,10 @@
+# Created by https://www.gitignore.io
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.idea
+*.sqlite3
